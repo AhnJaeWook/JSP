@@ -1,0 +1,1 @@
+SELECT board_seq.nextval from dual;

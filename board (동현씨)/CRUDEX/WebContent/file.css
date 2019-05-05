@@ -1,0 +1,10 @@
+@charset "EUC-KR";
+<style type = "text/css">
+table.td.th {
+	border:1px solid purple;
+}
+th {
+	background-color:purple;
+	color:write;
+}
+</style>
